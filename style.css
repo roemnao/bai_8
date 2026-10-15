@@ -347,16 +347,17 @@ header *{
     letter-spacing: -0.2px;
 }
 .serviceCard__link{
-    width: 123px;
-    height: 32px;
-    
-    gap:27px;
-    
-    
+    font-family: 'Gilroy';
+    font-weight: 700;
+    font-size: 17px;
+
+    line-height: 32px;
+    letter-spacing: -0.6px;
+
+    background: rgba(71, 59, 240, 1);
+
 }
-.serviceCard__link{
-    gap: 27px;
-}
+
 .serviceCard__link > .text{
     font-family: 'Gilroy', sans-serif;
     font-weight: 700;
